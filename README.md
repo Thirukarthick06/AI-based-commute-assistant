@@ -62,6 +62,13 @@ npm run dev
 
 # Open http://localhost:3000
 
+
+
+
+
+
+**### 2. Full Stack (Frontend + Java Backend)**
+
 **RUN THE BACK END**
 # From the project root, navigate to the backend folder
 cd backend
@@ -69,6 +76,9 @@ cd backend
 mvn spring-boot:run
 
 # The backend API will start at http://localhost:8080
+
+
+
 
 **RUN THE FRONTEND**
 # Return to the project root
